@@ -1,0 +1,7 @@
+This is accsu.
+
+The project is not finished yet but this will read a MySQL database and then it
+will create nginx configs and run useradd. It will power a frontend where peop-
+le buy shell accounts.
+
+Enjoy!
